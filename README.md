@@ -1,2 +1,2 @@
-# CRUD-python
-CRUD basico realizado en python
+# Variaditos
+Códigos realizados para tareas especificas
